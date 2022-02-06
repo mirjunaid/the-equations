@@ -2,6 +2,8 @@ body{
     background-color:gray;
     line-height:1.5rem;
     margin-top:20px;
+    min-height: 60mm;
+    min-width: 50mm;
     }
     head{
         font-size:50px;
@@ -22,6 +24,7 @@ body{
         font-weight:bold;
         color:red;
         text-align:center;
+        line-height: normal;
         }
     .img1{
      display: block;
